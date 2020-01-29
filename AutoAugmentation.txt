@@ -1,0 +1,4 @@
+Data Augmentation
+
+Data augmentation means randomly applying various transformations to your inputs while training Machine Learning models. This artificially enlarges your training data as new possible input-output pairs are generated. It also helps prevent overfitting as the network almost never sees the exact same inputs twice and cannot just memorize them. Typical data augmentation techniques for images include randomly cropping parts out of input images, horizontally flipping them and applying affine transformations like translation, rotation or shearing.
+
